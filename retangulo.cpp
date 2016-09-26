@@ -4,8 +4,8 @@
 using namespace std;
 
 /**
- * @brief Retangulo::Retangulo é o construtor da classe Retangulo, onde
- * @param mx é a coordenada x do vértice superior esquerdo do retângulo,
+ * @brief Retangulo::Retangulo é o construtor da classe Retangulo
+ * @param mx é a coordenada x do vértice superior esquerdo do retângulo
  * @param my é a coordenada y do vértice superior esquerdo do retângulo
  * @param mlargura é a largura do retângulo e
  * @param maltura é a altura do retângulo
