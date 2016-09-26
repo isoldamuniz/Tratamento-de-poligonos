@@ -28,7 +28,6 @@ Retangulo::Retangulo(int mx, int my, int mlargura, int maltura){
     R.RotacionarPoligono(cm.getX(),cm.getY(),30);
     R.ImprimePoligono();
     cout << "A area do retangulo eh " << R.areaPoligono() <<endl;
-
 }
 
 /**

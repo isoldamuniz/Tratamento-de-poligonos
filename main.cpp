@@ -3,8 +3,6 @@
 #include "poligono.h"
 #include "retangulo.h"
 
-using namespace std;
-
 int main()
 {
     Retangulo R(0,0,3,4);
